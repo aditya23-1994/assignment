@@ -8,6 +8,8 @@ It contains a small api to fetch data with pagination expressjs
 
 # Commands to run the file....
 
+***npm install***
+
 **for node: *npm start***
 
 **for server: *npm run server***
