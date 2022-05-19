@@ -9,6 +9,7 @@ It contains a small api to fetch data with pagination expressjs
 # Commands to run the file....
 
 **for node: *npm start***
+
 **for server: *npm run server***
 
 ### API:- http://localhost:4001/products?page=3&limit=10
